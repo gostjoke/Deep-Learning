@@ -1,2 +1,3 @@
 # Deep-Learning
-ANN, CNN practicing T
+ANN, CNN practicing
+Including Udemy course
